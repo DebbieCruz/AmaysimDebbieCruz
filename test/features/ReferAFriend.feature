@@ -5,6 +5,7 @@ Feature: Refer a Friend
   I want to be able to Refer a friend
   So I can share Amaysim Plans to other mobile users
 
+  @Test2
 Scenario: Test2 : Amaysim User Dashboard - Settings- Refer a Friend
 Given User is logged into Amaysim Dashboard
 Then User successfully authenticates log in

@@ -2,6 +2,7 @@ package stepDefinition;
 import class.userData;
 public class LoginPage {
 }
+
     public void loginUser(UserData) {
         fillInAmaysimNumber(userData.getAmaysimNumber();
         fillInPassword(userData.getPassword();
