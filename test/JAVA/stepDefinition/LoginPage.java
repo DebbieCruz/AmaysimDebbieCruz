@@ -16,3 +16,4 @@ public class LoginPage {
     return isPageLoaded()
 
     }
+}

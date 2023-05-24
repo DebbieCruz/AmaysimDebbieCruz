@@ -6,9 +6,9 @@ Feature: Refer a Friend
   So I can share Amaysim Plans to other mobile users
 
   @Test2
-Scenario: Test2 : Amaysim User Dashboard - Settings- Refer a Friend
-Given User is logged into Amaysim Dashboard
-Then User successfully authenticates log in
-And  User clicks Refer a friend under Settings
-When User clicks "Copy" button on Refer a friend
-Then referral link is successfully copied
+  Scenario: Test2 : Amaysim User Dashboard - Settings- Refer a Friend
+    Given User is logged into Amaysim Dashboard
+    Then User successfully authenticates log in
+    And  User clicks Refer a friend under Settings
+    When User clicks "Copy" button on Refer a friend
+    Then referral link is successfully copied

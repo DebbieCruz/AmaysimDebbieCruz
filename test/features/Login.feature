@@ -2,8 +2,8 @@
 Feature: Login as Internal User
 
   As a user
-  I want to be able to log into AMAYSIM using my AMAYSIM number and AMAYSIM Password
-  So I can securely access my AMAYSIM account
+  I want to be able to log into Amaysim using my Amaysim number and Amaysim Password
+  So I can securely access my Amaysim account
 
   @Test1 @smoke
   Scenario: Test1 : Amaysim Login - Login as Internal User
