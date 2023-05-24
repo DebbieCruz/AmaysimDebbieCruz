@@ -12,4 +12,3 @@ Feature: Login as Internal User
     When User enters Amaysim number and password
     And  User clicks Login
     Then Amaysim Dashboard is loaded
-

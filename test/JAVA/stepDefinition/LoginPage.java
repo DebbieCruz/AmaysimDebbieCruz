@@ -1,6 +1,5 @@
 package stepDefinition;
 import class.userData;
-
 public class LoginPage {
 }
     public void loginUser(UserData) {
@@ -14,4 +13,5 @@ public class LoginPage {
 
     public boolean isPageLoaded(){
     return isPageLoaded()
+
     }

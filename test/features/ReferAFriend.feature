@@ -11,4 +11,3 @@ Then User successfully authenticates log in
 And  User clicks Refer a friend under Settings
 When User clicks "Copy" button on Refer a friend
 Then referral link is successfully copied
-
